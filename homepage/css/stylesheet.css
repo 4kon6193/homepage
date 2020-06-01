@@ -95,11 +95,11 @@ body {
 }
 
 .top-wrapper {
-	padding: 300px 300px;
-	background-image: url("../images/top.jpeg");
+	padding: 300px 0;
+	background-image: url("../images/topimage.jpg");
 	background-size: cover;
 	max-width: 100%;  /*画像のはみだしを防ぐ*/
-    height: auto;  /*画像の縦横比を維持 */
+
 }
 
 .top-wrapper:hover {
